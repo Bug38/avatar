@@ -28,6 +28,7 @@
   ],
   "exports": {
     ".": {
+      "types": "./types/index.d.ts",
       "require": "./src/avatar.js",
       "import": "./esm/index.js"
     }
